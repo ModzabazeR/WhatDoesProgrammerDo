@@ -1,7 +1,16 @@
+body{
+    font-family: Prompt;
+}
+h2{
+    text-transform: uppercase;
+    line-height: 1.8;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
 .jumbotron {
     background-color: #f4511e; /* Orange */
     color: #ffffff;
-    padding: 100px 25px;
+    padding: 150px 35px;
 }
 .bg-gray{
     background-color: #f6f6f6;
@@ -54,3 +63,36 @@
     src: url('/fonts/glyphicons-halflings-regular.eot');
     src: url('/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('/fonts/glyphicons-halflings-regular.woff') format('woff'), url('/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
   }
+.slideanim {visibility:hidden;}
+.slide {
+  /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide; 
+    /* The duration of the animation */
+    animation-duration: 1s; 
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible; 
+  }
+  
+  /* Go from 0% to 100% opacity (see-through) and specify the percentage from when to slide in the element along the Y-axis */
+@keyframes slide {
+    0% {
+      opacity: 0;
+      transform: translateY(70%);
+    } 
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    } 
+  }
+@-webkit-keyframes slide {
+    0% {
+      opacity: 0;
+      -webkit-transform: translateY(70%);
+    } 
+    100% {
+      opacity: 1;
+      -webkit-transform: translateY(0%);
+    }
+  } 
