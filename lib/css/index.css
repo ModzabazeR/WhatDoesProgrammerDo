@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Prompt');
 p {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family:Arial, Helvetica, sans-serif
 }
 .black {
   background-color: rgb(59, 56, 56);
@@ -8,7 +9,38 @@ p {
   color: #fff;
 }
 body{
-    font-family: Prompt;
+    font-family: 'Prompt',sans-serif;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: orange;
+  text-decoration: none;
+}
+.btn-default:hover {
+  background-color: rgb(255, 192, 0);
+  color: #fff
+}
+.btn-success:hover {
+  background-color: rgb(255, 192, 0);
+  border-color: rgb(255, 192, 0);
+}
+.btn:hover {
+  border-radius: 1;
+}
+.btn {
+  padding: 12px;
+  border-radius: 0;
+  border-color: rgb(255, 192, 0);
+  color: rgb(255, 192, 0);
+  background-color: white;
+}
+.btn-success {
+  background-color: #f6f6f6;
+}
+.btn-warning {
+  background-color: rgb(59, 56, 56)
 }
 h2{
     text-transform: uppercase;
@@ -36,13 +68,20 @@ footer {
 }
 #logo-b {
   width: 400px;
-  height: 400px;
+  height: 600px;
 }
 #logo-sm{
     width: 100px;
     height: 100px;
 }
-.thumbnail {
+#icon {
+  color: white;
+  padding: 10px;
+}
+#icon:hover {
+  color: white;
+}
+.img-thumbnail {
     padding: 0 0 15px 0;
     border: none;
     border-radius: 0;
@@ -74,30 +113,7 @@ footer {
       margin: 25px 0;
     }
   }
-@font-face {
-  font-family: 'promptbold';
-  src: url('prompt-bold-webfont.eot');
-  src: url('prompt-bold-webfont.eot?#iefix') format('embedded-opentype'),
-        url('prompt-bold-webfont.woff2') format('woff2'),
-        url('prompt-bold-webfont.woff') format('woff'),
-        url('prompt-bold-webfont.ttf') format('truetype'),
-        url('prompt-bold-webfont.svg#promptbold') format('svg');
-  font-weight: normal;
-  font-style: normal;
 
-}
-@font-face {
-  font-family: 'promptregular';
-  src: url('prompt-regular-webfont.eot');
-  src: url('prompt-regular-webfont.eot?#iefix') format('embedded-opentype'),
-        url('prompt-regular-webfont.woff2') format('woff2'),
-        url('prompt-regular-webfont.woff') format('woff'),
-        url('prompt-regular-webfont.ttf') format('truetype'),
-        url('prompt-regular-webfont.svg#promptregular') format('svg');
-  font-weight: normal;
-  font-style: normal;
-
-}
 .slideanim {visibility:hidden;}
 .slide {
   /* The name of the animation */

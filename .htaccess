@@ -1,0 +1,78 @@
+
+# HTID:8293408: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:8293408:
+
+
+
+
+
+
+
+
+
+
+
+# HTID:9152447: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /about http://whatdoesprogrammerdo-com.stackstaging.com/about-me.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:9152447:
+
+# HTID:9152461: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 302 /apprentice http://whatdoesprogrammerdo-com.stackstaging.com/apprentice.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:9152461:
+
+# HTID:9152468: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /programmer http://whatdoesprogrammerdo-com.stackstaging.com/programmer.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:9152468:
+
+# HTID:9152479: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /bythetime http://whatdoesprogrammerdo-com.stackstaging.com/by-the-time.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:9152479:
+
+# HTID:9152482: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /by-the-time http://whatdoesprogrammerdo-com.stackstaging.com/by-the-time.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:9152482:
+
+# HTID:9152487: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /references http://whatdoesprogrammerdo-com.stackstaging.com/reference.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:9152487:
+
+# HTID:9152504: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /pps http://schoolmanage-com.stackstaging.com
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:9152504:
+
+# HTID:9152508: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /panyaprateep http://schoolmanage-com.stackstaging.com
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:9152508:
+
+# HTID:17679029: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /panyaprateep http://schoolmanage-com.stackstaging.com
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17679029:
+
+# HTID:17679030: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /pps http://schoolmanage-com.stackstaging.com
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17679030:
+
+# HTID:17679031: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /references http://whatdoesprogrammerdo-com.stackstaging.com/reference.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17679031:
+
+# HTID:17679033: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /by-the-time http://whatdoesprogrammerdo-com.stackstaging.com/by-the-time.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17679033:
+
+# HTID:17679034: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /bythetime http://whatdoesprogrammerdo-com.stackstaging.com/by-the-time.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17679034:
+
+# HTID:17679035: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /programmer http://whatdoesprogrammerdo-com.stackstaging.com/programmer.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17679035:
+
+# HTID:17679037: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 302 /apprentice http://whatdoesprogrammerdo-com.stackstaging.com/apprentice.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17679037:
+
+# HTID:17679039: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /about http://whatdoesprogrammerdo-com.stackstaging.com/about-me.html
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17679039:
